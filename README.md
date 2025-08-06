@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer Tissue Classification using Random Forest Classifier
+## 🫁 Lung Cancer Tissue Classification using Random Forest Classifier
 
 ## 📌 Project Overview
 This project utilizes **Random Forest Classifier** algorithm to differentiate **tumor (T)** and adjacent **adjacent non-tumor tissues (NT)**  lung cancer tissues based on  **lipidomics** data derived from tissue extracts of lung cancer patients.
